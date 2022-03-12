@@ -13,6 +13,8 @@ namespace StackAndQueueProblems
         {
             this.top = null;
         }
+
+        //pushing into stack
         public void Push(int data)
         {
             Node newNode = new Node(data);
