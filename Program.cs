@@ -14,6 +14,14 @@ namespace StackAndQueueProblems
             stack.Push(56);
             stack.Push(30);
             stack.Push(70);
+
+            int PeakElement = stack.Peak();
+            Console.WriteLine("Peak top Element of the stack : " + PeakElement);
+
+            stack.Pop();
+            Console.WriteLine("After Poping the Element ");
+            stack.Display();
+
         }
     }
 }

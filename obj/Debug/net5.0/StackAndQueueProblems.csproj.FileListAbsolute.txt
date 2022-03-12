@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\bin\Debug\net5.0\StackAndQueueProblems.exe
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\bin\Debug\net5.0\StackAndQueueProblems.deps.json
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\bin\Debug\net5.0\StackAndQueueProblems.runtimeconfig.json
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\bin\Debug\net5.0\StackAndQueueProblems.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\bin\Debug\net5.0\StackAndQueueProblems.dll
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\bin\Debug\net5.0\StackAndQueueProblems.pdb
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.AssemblyInfo.cs
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.dll
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\refint\StackAndQueueProblems.dll
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.pdb
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\StackAndQueueProblems.genruntimeconfig.cache
+C:\Users\HP\Desktop\Class\StackAndQueueProblems\StackAndQueueProblems\obj\Debug\net5.0\ref\StackAndQueueProblems.dll
